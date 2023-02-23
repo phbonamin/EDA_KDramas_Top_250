@@ -30,14 +30,18 @@ Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 <img src="imagens/Grafico2.png" alt="Grafico2">
 
  **A maioria desses kdramas possui entre 16 e 20 episódios** 📺
-
+ 
+<table><tr>
 <td> <img src="imagens/Grafico3.png" alt="Grafico3"/> </td>
 <td> <img src="imagens/Grafico3Supp.png" alt="Grafico3Supp"/> </td>
+</tr></table>
 
 **A maior parte desses kdramas possui uma duração de episódio de 60 a 70 minutos** ⏱️ 
 
+<table><tr>
 <td> <img src="imagens/Grafico4.png" alt="Grafico4"/> </td>
 <td> <img src="imagens/Grafico4Supp.png" alt="Grafico4Supp"/> </td>
+</tr></table>
 
 **A maioria desses kdramas vai ao ar 2 vezes por semana.** 📅 
 
@@ -48,6 +52,7 @@ Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 <img src="imagens/Grafico6.png" alt="Grafico6">
 
  **Os top 5 generos mais comuns entre os kdramas são: Romance, Drama, Comédia, Mistério e Suspense ( Do mais comum para o menos)** 🎭
+ 
 <img src="imagens/Grafico7Supp.png" alt="Grafico7">
 <img src="imagens/Grafico7.png" alt="Grafico7">
 
