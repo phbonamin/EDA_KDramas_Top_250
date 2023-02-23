@@ -61,34 +61,70 @@ Além disso, foi possível observar que aparentemente nenhuma dessas variáveis 
 
 <img src="imagens/Grafico8.png" alt="Grafico8">
 
-## 💡 Sugestões para os Produtores
+Antes de falarmos sobre os produtores, é importante mencionar que, como apenas as análises bivariadas com o rating não foram suficientes, decidi olhar as relações com a restrição de idade para tomar algumas decisões, já que aparentemente ela estava relacionada com o rating. 
 
-Antes de falarmos sobre os produtores, é importante mencionar que, como apenas as análises bivariadas com o rating não foram suficientes, decidi olhar as relações com a restrição de idade para tomar algumas decisões, já que aparentemente ela estava relacionada com o rating.
+Primeiro analisei como **quantos dias que a sériés vão ao ar influenciam na restrição de idade e no rating.**
+
+Grafico 9 
+
+Grafico 10
+
+Depois tranformei a variaveis de duração e número de episódios em variávies categóricas para que pudesse compara-las com a restrição de idade junto com o rating.
+
+**Duração**
+Grafico 11 
+Grafico 12 
+Grafico 13 
+
+**Numero de episódios**
+Grafico 14 
+Grafico 15 
+Grafico 16
+
+Além disso, com essas características já definidas, defini também os dias da semana e os generos dos kdramas que eles poderiam se basear.
+
+**Money**
+
+Dias
+Grafico 17
+Genero
+Grafico 18
+
+**Money**
+
+Dias
+Grafico 19
+Genero
+Grafico 20
+
+Ao termino dessas analises, filtrei as características que achei desejável para cada produtor segundo seus requerimentos e os resultados foram os abaixo.
+
+## 💡 Sugestões para os Produtores
 
 ### 💰 Produtor "Money"
 
 Para atingir seu objetivo de criar um kdrama que venda bem, o produtor "Money" pode utilizar kdramas de referência com as seguintes características:
 
-    Rating: Pelo menos 8.3;
-    Restrição de idade: 15+;
-    Número de episódios: Até 16 ou entre 16 e 20 episódios;
-    Duração do episódio: Entre 60 e 65 minutos ou mais que 70 minutos;
-    Número de Dias: 2 vezes por semana;
-    Dias: Sábado e domingo;
-    Gênero: Escolher algo do top 5 (Drama, Romance, Mistério, Suspense ou Comédia).
+    Rating: Pelo menos 8.3; ⭐
+    Restrição de idade: 15+; 📛
+    Número de episódios: Até 16 ou entre 16 e 20 episódios;📺
+    Duração do episódio: Entre 60 e 65 minutos ou mais que 70 minutos; ⏱️ 
+    Número de Dias: 2 vezes por semana; 📅
+    Dias: Sábado e domingo; 📅
+    Gênero: Escolher algo do top 5 (Drama, Romance, Mistério, Suspense ou Comédia). 🎭
 
 Alguns exemplos de kdramas com essas características são "Flower of Evil" (#2), "My Mister" (#5) e "Prison Playbook" (#8).
 
 ### 💪 Produtor "Hardcore"
 
-Para atingir seu objetivo de criar um dos melhores kdramas já vistos, o produtor "Hardcore" deve buscar produzir um kdrama 18+, que permite mais liberdade de conteúdo, e que possua as seguintes características:
+Para atingir seu objetivo de criar um dos melhores kdramas já vistos, o produtor "Hardcore" assumi que ele deve utilizar uma restrição de idade de 18+, que permite mais liberdade de conteúdo, e que possua as seguintes características:
 
-    Rating: Pelo menos acima 8.5, preferencialmente 8.7;
-    Restrição de idade: 18+;
-    Número de episódios: Até 16 episódios;
-    Duração do episódio: Até 60 minutos;
-    Número de dias: 1 vez por semana;
-    Dias: Sexta-feira;
-    Gênero: Drama e suspense são ótimas escolhas.
+    Rating: Pelo menos acima 8.5, preferencialmente 8.7; ⭐
+    Restrição de idade: 18+; 📛
+    Número de episódios: Até 16 episódios; 📺
+    Duração do episódio: Até 60 minutos;  ⏱️ 
+    Número de dias: 1 vez por semana; 📅
+    Dias: Sexta-feira; 📅
+    Gênero: Drama e suspense são ótimas escolhas. 🎭
     
 Alguns exemplos de kdramas com essas características: **Move to Heaven(#1), Weak Hero Class 1 (#7), Kingdom: Season 2 (#20)**
