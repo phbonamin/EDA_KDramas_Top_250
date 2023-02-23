@@ -18,31 +18,31 @@ Considerando **maioria = >50%.**
 
 Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 
-⭐️ **O rating mediano  é de 8.5** 
+ **O rating mediano  é de 8.5** ⭐
 
 <img src="imagens/Grafico1.png" alt="Grafico1">
 
-📛 **A restrição de idade mais comum é 15+**
+ **A restrição de idade mais comum é 15+** 📛
 
 <img src="imagens/Grafico2.png" alt="Grafico2">
 
-📺 **A maioria desses kdramas possui entre 16 e 20 episódios**
+ **A maioria desses kdramas possui entre 16 e 20 episódios** 📺
 
 <img src="imagens/Grafico3.png" alt="Grafico3">
 
-⏱️ **A maior parte desses kdramas possui uma duração de episódio de 60 a 70 minutos**
+**A maior parte desses kdramas possui uma duração de episódio de 60 a 70 minutos** ⏱️ 
 
 <img src="imagens/Grafico4.png" alt="Grafico4">
 
-📅 **A maioria desses kdramas vai ao ar 2 vezes por semana.**
+**A maioria desses kdramas vai ao ar 2 vezes por semana.** 📅 
 
 <img src="imagens/Grafico5.png" alt="Grafico5">
 
-📅 **Os dias mais comuns para que os kdramas vão ao ar é de Sábado e Quarta(Não combinados).**
+ **Os dias mais comuns para que os kdramas vão ao ar é de Sábado e Quarta(Não combinados).** 📅
 
 <img src="imagens/Grafico6.png" alt="Grafico6">
 
-🎭 **Os top 5 generos mais comuns entre os kdramas são: Romance, Drama, Comédia, Mistério e Suspense ( Do mais comum para o menos)**
+ **Os top 5 generos mais comuns entre os kdramas são: Romance, Drama, Comédia, Mistério e Suspense ( Do mais comum para o menos)** 🎭
 
 <img src="imagens/Grafico7.png" alt="Grafico7">
 
