@@ -1,49 +1,60 @@
-#Top 250 Kdramas EDA 
+# EDA  dos Top 250 Kdramas no MyDramaList 🎬
 
-## Introdução
+## ❔ Sobre o projeto
 
-O objetivo deste notebook foi analisar um dataset contendo informações sobre os 250 melhores kdramas , a fim de identificar as características mais comuns desses dramas e utilizar essas informações para ajudar dois produtores de kdramas com objetivos diferentes: um que busca criar um dos melhores kdramas já vistos(Hardcore), e outro que busca criar um kdrama que venda bem(Money).
+O objetivo deste projeto foi analisar um dataset contendo informações sobre os 250 melhores kdramas ,segundo a <a href = "https://mydramalist.com"> MyDramaList </a> , a fim de identificar as características mais comuns desses dramas e utilizar essas informações para ajudar dois produtores de kdramas com objetivos diferentes: um que busca criar um dos melhores kdramas já vistos (Hardcore), e outro que busca criar um kdrama que venda bem(Money).
+
+Para a mesma foi utilizado o dataset disponível no Kaggle.
+
+Clique <a href  = "https://www.kaggle.com/datasets/ahbab911/top-250-korean-dramas-kdrama-dataset" >aqui</a> caso queira acessá-lo. 
+
+Vamos então ver quais foram os principais destaques e as conclusões dessa análise!
 
 ![Couple Kdrama Gif](https://media.giphy.com/media/ZdAOatkOA7Q13ENNWz/giphy.gif)
-## Análise do Dataset
 
-Com base na análise dos dados, podemos destacar as seguintes características mais comuns dos top 250 kdramas:
+## 📊 Análise do Dataset 
 
-    O rating mediano é de 8.5;
-    
-    GRAFICO 1
-    A restrição de idade mais comum é 15+;
-    
-    GRAFICO 2
-    A maioria desses kdramas possui entre 16 e 20 episódios;
-    
-    GRAFICO 3
-    
-    A duração média do episódio é de 60 a 70 minutos;
-    
-    GRAFICO 4
-    
-    A maioria desses kdramas vai ao ar 2 vezes por semana;
-    
-    GRAFICO 5
-    
-    Os dias mais comuns para que os kdramas vão ao ar são sábado e quarta-feira (não combinados);
-    
-    GRAFICO 6
-    
-    Os top 5 gêneros mais comuns entre os kdramas são romance, drama, comédia, mistério e suspense, do mais comum para o menos.
-    
-    GRAFICO 7
+Considerando **maioria = >50%.**
 
-Além disso, foi possível observar que aparentemente nenhuma dessas variáveis parece ter um efeito significativo no rating, com exceção da restrição de idade. Foi possível notar que, à medida que a restrição de idade diminui, o rating parece subir (por exemplo, 18+ tem um rating mediano maior do que 15+), apesar da grande diferença de N.
+Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 
-    GRAFICO 8
+⭐️ **O rating mediano  é de 8.5** 
 
-## Sugestões para os Produtores
+GRAFICO 1
+
+📛 **A restrição de idade mais comum é 15+**
+
+GRAFICO 2
+
+📺 **A maioria desses kdramas possui entre 16 e 20 episódios**
+
+GRAFICO 3
+
+⏱️ **A maior parte desses kdramas possui uma duração de episódio de 60 a 70 minutos**
+
+GRAFICO 4
+
+📅 **A maioria desses kdramas vai ao ar 2 vezes por semana.**
+
+GRAFICO 5
+
+📅 **Os dias mais comuns para que os kdramas vão ao ar é de Sábado e Quarta(Não combinados).**
+
+GRAFICO 6
+
+🎭 **Os top 5 generos mais comuns entre os kdramas são: Romance, Drama, Comédia, Mistério e Suspense ( Do mais comum para o menos)**
+
+GRAFICO 7
+
+Além disso, foi possível observar que aparentemente nenhuma dessas variáveis parece ter um efeito significativo no rating, com exceção da restrição de idade. Foi possível notar que, **à medida que a restrição de idade diminui, o rating parece subir (por exemplo, 18+ tem um rating mediano maior do que 15+)**, apesar da grande diferença de N.
+
+GRAFICO 8
+
+## 💡 Sugestões para os Produtores
 
 Antes de falarmos sobre os produtores, é importante mencionar que, como apenas as análises bivariadas com o rating não foram suficientes, decidi olhar as relações com a restrição de idade para tomar algumas decisões, já que aparentemente ela estava relacionada com o rating.
 
-Produtor "Money"
+### 💰 Produtor "Money"
 
 Para atingir seu objetivo de criar um kdrama que venda bem, o produtor "Money" pode utilizar kdramas de referência com as seguintes características:
 
@@ -56,6 +67,8 @@ Para atingir seu objetivo de criar um kdrama que venda bem, o produtor "Money" p
     Gênero: Escolher algo do top 5 (Drama, Romance, Mistério, Suspense ou Comédia).
 
 Alguns exemplos de kdramas com essas características são "Flower of Evil" (#2), "My Mister" (#5) e "Prison Playbook" (#8).
+
+### 💪 Produtor "Hardcore"
 
 Para atingir seu objetivo de criar um dos melhores kdramas já vistos, o produtor "Hardcore" deve buscar produzir um kdrama 18+, que permite mais liberdade de conteúdo, e que possua as seguintes características:
 
