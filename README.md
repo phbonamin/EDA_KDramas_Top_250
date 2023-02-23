@@ -19,8 +19,11 @@ Considerando **maioria = >50%.**
 Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 
  **O rating mediano  é de 8.5** ⭐
+<table><tr>
+<td> <img src="imagens/Grafico1.png" alt="Grafico1" style="width: 250px;"/> </td>
+<td> <img src="immagens/Grafico1Supp.png." alt="Grafico1Supp" style="width: 250px;"/> </td>
+</tr></table>
 
-<img src="imagens/Grafico1.png" alt="Grafico1">
 
  **A restrição de idade mais comum é 15+** 📛
 
