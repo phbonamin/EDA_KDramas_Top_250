@@ -19,26 +19,55 @@ Considerando **maioria = >50%.**
 Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 
  **O rating mediano  é de 8.5** ⭐
-<table><tr>
-<td> <img src="imagens/Grafico1.png" alt="Grafico1"/> </td>
-<td> <img src="imagens/Grafico1Supp.png" alt="Grafico1Supp"/> </td>
-</tr></table>
-
- **O rating mediano  é de 8.5** ⭐
-<table sytle = "width: 100%;">
+ <table>
+ 
  <tr>
-<td> <img rowspan = "4" src="imagens/Grafico1.png" alt="Grafico1"/> </td>
+ <td rowspan="9"><img src="imagens/Grafico1.png" alt="Grafico1"/></td>
+ <td> <b>Count</b> : 250.000000 </td>
+
+
+ </tr>
+ <tr>
+
+ <td><b>Mean</b> : 8.534000</td>
+
 
 </tr>
-  <tr><td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
-    <tr> <td> 1 </td></tr>
+<tr>
+
+<td><b>STD</b> : 0.221359</td>
+
+</tr>
+
+ <tr>
+
+<td><b>Min</b> : 8.300000</td>
+
+</tr>
+
+ <tr>
+
+<td><b>25%</b> : 8.300000</td>
+
+</tr>
+
+ <tr>
+
+<td><b>50%</b> : 8.500000</td>
+
+</tr>
+
+ <tr>
+
+<td><b>75%</b> : 8.700000</td>
+
+</tr>
+ <tr>
+
+<td><b>Max</b> : 9.200000</td>
+
+</tr>
+
 </table>
 
 
