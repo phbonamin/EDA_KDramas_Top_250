@@ -179,7 +179,7 @@ Além disso, foi possível observar que aparentemente nenhuma dessas variáveis 
 
 Antes de falarmos sobre os produtores, é importante mencionar que, como apenas as análises bivariadas com o rating não foram suficientes, decidi olhar as relações com a restrição de idade para tomar algumas decisões, já que aparentemente ela estava relacionada com o rating. 
 
-Primeiro analisei como **quantos dias que a sériés vão ao ar influenciam na restrição de idade e no rating.**
+Primeiro analisei como **quantos dias que os kdramas vão ao ar influenciam na restrição de idade e no rating.**
 
 <img src="imagens/Grafico9.png" alt="Grafico9">
 
