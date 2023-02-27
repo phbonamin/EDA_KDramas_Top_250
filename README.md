@@ -181,37 +181,45 @@ Antes de falarmos sobre os produtores, é importante mencionar que, como apenas 
 
 Primeiro analisei como **quantos dias que a sériés vão ao ar influenciam na restrição de idade e no rating.**
 
-Grafico 9 
+<img src="imagens/Grafico9.png" alt="Grafico9">
 
-Grafico 10
+<img src="imagens/Grafico10.png" alt="Grafico10">
 
 Depois tranformei a variaveis de duração e número de episódios em variávies categóricas para que pudesse compara-las com a restrição de idade junto com o rating.
 
-**Duração**
-Grafico 11 
-Grafico 12 
-Grafico 13 
-
 **Numero de episódios**
-Grafico 14 
-Grafico 15 
-Grafico 16
+<table>
+<tr>
+<td><img src="imagens/Grafico11.png" alt="Grafico11"></td> <td><img src="imagens/Grafico12.png" alt="Grafico12"></td>  
+ </tr>
+</table>
+<img src="imagens/Grafico13.png" alt="Grafico13">
+
+**Duração**
+
+<table>
+<tr>
+<td><img src="imagens/Grafico14.png" alt="Grafico14"></td> <td><img src="imagens/Grafico15.png" alt="Grafico15"></td>  
+ </tr>
+</table>
+<img src="imagens/Grafico16.png" alt="Grafico16">
+
 
 Além disso, com essas características já definidas, defini também os dias da semana e os generos dos kdramas que eles poderiam se basear.
 
 **Money**
 
-Dias
-Grafico 17
-Genero
-Grafico 18
+**Dias**
+<img src="imagens/Grafico17.png" alt="Grafico17">
+**Genero**
+<img src="imagens/Grafico19.png" alt="Grafico19">
 
-**Money**
+**Hardcore**
 
-Dias
-Grafico 19
-Genero
-Grafico 20
+**Dias**
+<img src="imagens/Grafico18.png" alt="Grafico18">
+**Genero**
+<img src="imagens/Grafico20.png" alt="Grafico20">
 
 Ao termino dessas analises, filtrei as características que achei desejável para cada produtor segundo seus requerimentos e os resultados foram os abaixo.
 
