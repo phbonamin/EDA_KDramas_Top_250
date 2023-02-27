@@ -78,17 +78,88 @@ Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 
  **A maioria desses kdramas possui entre 16 e 20 episódios** 📺
  
-<table><tr>
-<td> <img src="imagens/Grafico3.png" alt="Grafico3"/> </td>
-<td> <img src="imagens/Grafico3Supp.png" alt="Grafico3Supp"/> </td>
-</tr></table>
+<table>
+ 
+ <tr>
+ <td rowspan="9"><img src="imagens/Grafico3.png" alt="Grafico3"/></td>
+ <td> <b>Count</b> : 250.000000 </td>
+
+
+ </tr>
+ <tr>
+
+ <td><b>Mean</b> : 19.064000</td>
+
+
+</tr>
+<tr>
+
+<td><b>STD</b> : 13.245743</td>
+
+</tr>
+
+ <tr>
+
+<td><b>Min</b> : 1.000000</td>
+
+</tr>
+
+ <tr>
+
+<td><b>25%</b> : 16.000000</td>
+
+</tr>
+
+ <tr>
+
+<td><b>50%</b> : 16.000000</td>
+
+</tr>
+
+ <tr>
+
+<td><b>75%</b> : 20.000000</td>
+
+</tr>
+ <tr>
+
+<td><b>Max</b> : 133.000000</td>
+
+</tr>
+
+</table>
+
 
 **A maior parte desses kdramas possui uma duração de episódio de 60 a 70 minutos** ⏱️ 
 
-<table><tr>
-<td> <img src="imagens/Grafico4.png" alt="Grafico4"/> </td>
-<td> <img src="imagens/Grafico4Supp.png" alt="Grafico4Supp"/> </td>
-</tr></table>
+<table>
+ 
+ <tr>
+ <td rowspan="9"><img src="imagens/Grafico4.png" alt="Grafico4"/></td>
+ <td> <b>Count</b> : 250.000000 </td>
+ </tr>
+ <tr>
+ <td><b>Mean</b> : 62.408000</td>
+</tr>
+<tr>
+<td><b>STD</b> : 14.957018</td>
+</tr>
+ <tr>
+<td><b>Min</b> : 15.000000</td>
+</tr>
+ <tr>
+<td><b>25%</b> : 60.000000</td>
+</tr>
+ <tr>
+<td><b>50%</b> : 65.000000</td>
+</tr>
+ <tr>
+<td><b>75%</b> : 70.000000</td>
+</tr>
+ <tr>
+<td><b>Max</b> : 100.000000</td>
+</tr>
+</table>
 
 **A maioria desses kdramas vai ao ar 2 vezes por semana.** 📅 
 
@@ -100,11 +171,9 @@ Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
 
  **Os top 5 generos mais comuns entre os kdramas são: Romance, Drama, Comédia, Mistério e Suspense ( Do mais comum para o menos)** 🎭
  
-<img src="imagens/Grafico7Supp.png" alt="Grafico7">
 <img src="imagens/Grafico7.png" alt="Grafico7">
 
 Além disso, foi possível observar que aparentemente nenhuma dessas variáveis parece ter um efeito significativo no rating, com exceção da restrição de idade. Foi possível notar que, **à medida que a restrição de idade aumenta, o rating parece subir (por exemplo, 18+ tem um rating mediano maior do que 15+)**, apesar da grande diferença de N.
-
 
 <img src="imagens/Grafico8.png" alt="Grafico8">
 
