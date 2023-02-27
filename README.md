@@ -173,7 +173,7 @@ Vamos destacar as **caracteristicas mais comums** dos **top 250 kdramas**:
  
 <img src="imagens/Grafico7.png" alt="Grafico7">
 
-Além disso, foi possível observar que aparentemente nenhuma dessas variáveis parece ter um efeito significativo no rating, com exceção da restrição de idade. Foi possível notar que, **à medida que a restrição de idade aumenta, o rating parece subir (por exemplo, 18+ tem um rating mediano maior do que 15+)**, apesar da grande diferença de N.
+Além disso, foi possível observar que aparentemente nenhuma dessas variáveis parece  ter um efeito significativo no rating, com exceção da restrição de idade. Foi possível notar que, **à medida que a restrição de idade aumenta, o rating parece subir (por exemplo, 18+ tem um rating mediano maior do que 15+)**, apesar da grande diferença de N. (Futuramente um teste de hipóteses pode ser feito para confirmar essa tendência)
 
 <img src="imagens/Grafico8.png" alt="Grafico8">
 
