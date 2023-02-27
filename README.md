@@ -210,15 +210,21 @@ Além disso, com essas características já definidas, defini também os dias da
 **Money**
 
 **Dias**
+
 <img src="imagens/Grafico17.png" alt="Grafico17">
+
 **Genero**
+
 <img src="imagens/Grafico19.png" alt="Grafico19">
 
 **Hardcore**
 
 **Dias**
+
 <img src="imagens/Grafico18.png" alt="Grafico18">
+
 **Genero**
+
 <img src="imagens/Grafico20.png" alt="Grafico20">
 
 Ao termino dessas analises, filtrei as características que achei desejável para cada produtor segundo seus requerimentos e os resultados foram os abaixo.
@@ -237,7 +243,7 @@ Para atingir seu objetivo de criar um kdrama que venda bem, o produtor "Money" p
     Dias: Sábado e domingo; 📅
     Gênero: Escolher algo do top 5 (Drama, Romance, Mistério, Suspense ou Comédia). 🎭
 
-Alguns exemplos de kdramas com essas características são "Flower of Evil" (#2), "My Mister" (#5) e "Prison Playbook" (#8).
+Alguns exemplos de kdramas com essas características são **"Flower of Evil" (#2)**, **"My Mister" (#5)** e **"Prison Playbook" (#8)**.
 
 ### 💪 Produtor "Hardcore"
 
